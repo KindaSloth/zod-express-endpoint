@@ -2,7 +2,7 @@
 
 ### Create fully inferred typesafe express endpoints using zod schemas
 
-![video]()
+https://user-images.githubusercontent.com/55771765/217964531-90283926-6a2c-48a1-875d-945a44588b4c.mp4
 
 ## How to Install
 
