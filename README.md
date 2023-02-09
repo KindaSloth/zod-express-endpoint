@@ -7,11 +7,11 @@ https://user-images.githubusercontent.com/55771765/217964766-edb63238-7079-442f-
 ## How to Install
 
 ```
-$ yarn add ts-avl
+$ yarn add zod-express-endpoint
 
 # or
 
-$ npm i ts-avl
+$ npm i zod-express-endpoint
 ```
 
 ## Basic usage
